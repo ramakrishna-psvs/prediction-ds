@@ -1,2 +1,2 @@
 # prediction-ds
-Creates a new file with that predicts the products you should buy from the retail dataset.
+It predicts the products you should buy from the 'retail' dataset, and creates a new file called 'Recommendations.csv'
